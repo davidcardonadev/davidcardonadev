@@ -55,9 +55,9 @@ My journey reflects a collection of experiences that have deepened my global per
 </details>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=juandabi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=davidcardonadev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juandabi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcardonadev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
